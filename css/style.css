@@ -1,0 +1,233 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url("../img/mountains-preview2.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.titleinleiding {
+    font-family:  url("http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OX-hpOqc.woff2");
+    color: #ffffff;
+    margin-top: 225px;
+    font-size: 110px;
+    text-align: center; 
+}
+
+.inleiding{
+    font-family:  url("http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OX-hpOqc.woff2");
+    color: #ffffff; 
+    text-align: center;
+    margin-top: -75px;
+    margin-left: 0px;
+}
+
+.naam{
+    font-family:  url("http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OX-hpOqc.woff2");
+    color: #ffffff; 
+    text-align: center;
+    margin-top: 15px;
+     margin-left: 0px;
+}
+
+#grid_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 1250px;
+    margin: 100px auto;
+}
+
+#grid_item1 {
+    background-image: url('https://cdnpt03.viewbug.com/media/mediafiles/2017/12/22/76677157_medium.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: -500px;
+}
+
+h2 {
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+    margin-top: 0px;
+}
+
+ul {
+    list-style-type: none;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#grid_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 1250px;
+    margin: 100px auto;
+}
+
+.grid_items {
+    width: 400px;
+    height: 400px;
+    background-color: #fff;
+    box-shadow: 0px 1px 15px #1e1e1e;
+    box-sizing: border-box;
+    margin-bottom: 25px;
+    position: relative;
+}
+
+h2 {
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+    margin-top: 0px;
+}
+
+ul {
+    list-style-type: none;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#weatherList li {
+    font-weight: bolder;
+    text-shadow: 1px 1px 10px #1e1e1e;
+}
+
+.weatherIconStyle {
+    position: absolute;
+    top: 55px;
+    right: 30px;
+    width: 70px;
+    box-shadow: 0px 0px 20px #3CB1B9;
+    border-radius: 100%;
+}
+
+#weatherList li:nth-child(1) {
+    font-weight: bolder;
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-family: Helvetica, sans-serif;
+    color: #FFFFFF;
+}
+
+#weatherListRight {
+    float: right;
+    padding: 30px;
+    padding-top: 0px;
+    margin-top: 60px;
+    color: #fff;
+}
+
+.containerButton {
+    display: flex;
+    justify-content: space-around;
+    box-sizing: border-box;
+    overflow: hidden;
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+}
+
+button {
+    background-color: #3CB1B9;
+    color: #fff;
+    border: none;
+    padding: 5px;
+    width: 100px;
+    box-shadow: 0px 5px 5px #1e1e1e;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: #fff;
+    color: #3CB1B9;
+    cursor: pointer;
+}
+
+button:active {
+    box-shadow: 0px 3px 5px #3CB1B9;
+}
+
+.news{
+    padding: 10px;
+    margin-top: -565px;
+    margin-left: 950px;
+    color: #ffffff;
+    width: 600px;
+}
+
+h3{
+    color: #ffffff;
+    font-size: 30px;
+    border-radius: 10px;
+    border: hidden;
+    padding: 10px;
+    background: #3CB1B9;
+    color: rgb(54, 54, 54);
+}
+
+#bullet{
+    border-radius: 10px;
+    border: hidden;
+    padding: 10px;
+    background: #3CB1B9;
+    color: rgb(54, 54, 54);
+}
+
+h5{
+    font-size: 17px;
+    margin-top: -5px;
+}
+
+.rowfields{
+    color: #ffffff;
+    margin-top: -990px;
+    margin-left: 500px;
+}
+
+#firstNameField{
+    margin-left: 15px;
+    width: 300px;
+}
+
+#lastNameField{
+    margin-left: 1px;
+    width: 300px;
+}
+#btnMakeJoke{
+    width: 150px;
+}
+
+.title{
+    font-size: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #ffffff;
+
+}
+
+#grid_item3{
+    border-radius: 10px;
+    border: hidden;
+    padding: 10px;
+    background: #3CB1B9;
+    color: rgb(54, 54, 54);
+    margin-left: 500px;
+}
+
+.quoteStyle{
+    font-size: 24px;
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
